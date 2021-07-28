@@ -1,2 +1,2 @@
 # gasisuk-pub
-Gamma-adjusted Skin Image Segmentation using Keypoint 
+Gamma-Adjusted Skin Image Segmentation using Keypoint 
