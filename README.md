@@ -1,6 +1,7 @@
 # Gamma-Adjusted Skin Image Segmentation Using Keypoints (GASISUK)
 
-![image](https://user-images.githubusercontent.com/969476/127533411-0edc46ac-d27a-4afe-9b2f-45f430a672fd.png)
+![image](https://user-images.githubusercontent.com/969476/127534162-876b1788-fc34-4628-ab0d-5e5b50423e58.png)
+
 
 
 
